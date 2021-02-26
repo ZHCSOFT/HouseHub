@@ -2,7 +2,7 @@ HouseHub Project
 ====
 
 <p align="center">
-  <img src="https://i.imgur.com/ky8QpCw.png" width="350" title="indexScreenshot">
+  <img src="https://i.imgur.com/ky8QpCw.png" width="1000" title="indexScreenshot">
 </p>
 
 Feature
