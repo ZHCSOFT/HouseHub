@@ -1,7 +1,7 @@
 HouseHub Project
 ====
 
-![alt text](https://imgur.com/ky8QpCw)
+<blockquote class="imgur-embed-pub" lang="en" data-id="ky8QpCw"><a href="https://imgur.com/ky8QpCw">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 Feature
 -------
