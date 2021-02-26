@@ -1,7 +1,9 @@
 HouseHub Project
 ====
 
-!(https://i.imgur.com/ky8QpCw.png)
+<p align="center">
+  <img src="https://i.imgur.com/ky8QpCw.png" width="350" title="indexScreenshot">
+</p>
 
 Feature
 -------
